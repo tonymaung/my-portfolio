@@ -95,7 +95,7 @@ document.addEventListener("click", e => {
 //Typewriting Effect
 
 const text = document.querySelector("#text");
-const phrases = ["Hello!", "မင်္ဂလာပါ", "好好!", "नमस्ते", "こににちは!", "안녕하세요!"]
+const phrases = ["Hello!", "မင်္ဂလာပါ", "好好", "नमस्ते", "こんにちは", "안녕하세요!"]
     //"မင်္ဂလာပါ", "你好", "こににち​​は", "안녕하세요"
 let i = 0,
     j = 0,
